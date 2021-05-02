@@ -1,0 +1,13 @@
+\babel@toc {ngerman}{}
+\beamer@sectionintoc {1}{Einleitung}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Langfristiges Ziel}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Kurzfristiges Ziel}{6}{0}{1}
+\beamer@sectionintoc {2}{Vorbereitung}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Mentale Vorbereitung}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Körperliche Vorbereitung}{10}{0}{2}
+\beamer@sectionintoc {3}{Phase 1 (21 Tage)}{12}{0}{3}
+\beamer@subsectionintoc {3}{1}{Ziel}{13}{0}{3}
+\beamer@subsectionintoc {3}{2}{Regeln}{14}{0}{3}
+\beamer@subsectionintoc {3}{3}{GLYX}{15}{0}{3}
+\beamer@sectionintoc {4}{Phase 2}{16}{0}{4}
+\beamer@subsectionintoc {4}{1}{Ziel}{17}{0}{4}
