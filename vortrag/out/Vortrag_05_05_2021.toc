@@ -1,0 +1,9 @@
+\babel@toc {ngerman}{}
+\beamer@sectionintoc {1}{Theorie}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Aktueller Stand}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Synthese}{7}{0}{1}
+\beamer@subsectionintoc {1}{3}{Dosierung}{11}{0}{1}
+\beamer@subsectionintoc {1}{4}{Gesundheitliche Aspekte}{12}{0}{1}
+\beamer@sectionintoc {2}{Praxis}{18}{0}{2}
+\beamer@subsectionintoc {2}{1}{Tipps \& Tricks}{19}{0}{2}
+\beamer@sectionintoc {3}{Fragerunde}{20}{0}{3}
