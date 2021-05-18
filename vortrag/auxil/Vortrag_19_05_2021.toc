@@ -1,0 +1,11 @@
+\babel@toc {ngerman}{}
+\beamer@sectionintoc {1}{Theorie}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Mund}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Magen}{7}{0}{1}
+\beamer@subsectionintoc {1}{3}{Dünndarm}{9}{0}{1}
+\beamer@subsectionintoc {1}{4}{Blinddarm}{10}{0}{1}
+\beamer@subsectionintoc {1}{5}{Dickdarm}{12}{0}{1}
+\beamer@subsectionintoc {1}{6}{Makronährstoffe}{13}{0}{1}
+\beamer@sectionintoc {2}{Praxis}{20}{0}{2}
+\beamer@subsubsectionintoc {2}{0}{1}{Tipps \& Tricks}{21}{0}{2}
+\beamer@sectionintoc {3}{Fragerunde}{24}{0}{3}
