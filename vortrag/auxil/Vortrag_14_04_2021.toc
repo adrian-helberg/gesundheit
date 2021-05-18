@@ -1,0 +1,11 @@
+\babel@toc {ngerman}{}
+\beamer@sectionintoc {1}{Theorie}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Motivation}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Die Wissensgesellschaft}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Irrtümer}{10}{0}{1}
+\beamer@subsectionintoc {1}{4}{Hunger}{13}{0}{1}
+\beamer@subsectionintoc {1}{5}{Fazit}{15}{0}{1}
+\beamer@subsectionintoc {1}{6}{Ziel}{16}{0}{1}
+\beamer@sectionintoc {2}{Praxis}{17}{0}{2}
+\beamer@subsectionintoc {2}{1}{Das perfekte Frühstück}{18}{0}{2}
+\beamer@subsectionintoc {2}{2}{Das Spätstück}{20}{0}{2}

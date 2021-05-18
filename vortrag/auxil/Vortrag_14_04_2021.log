@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  18 MAY 2021 20:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  18 MAY 2021 20:16
 entering extended mode
-**./Vortrag_19_05_2021.tex
-(Vortrag_19_05_2021.tex
+**./Vortrag_14_04_2021.tex
+(Vortrag_14_04_2021.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03>
 (C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
@@ -873,25 +873,25 @@ tex.def
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count322
 \l__pdf_internal_box=\box72
-) (D:/git\gesundheit\vortrag\auxil\Vortrag_19_05_2021.aux)
-\openout1 = `Vortrag_19_05_2021.aux'.
+) (D:/git\gesundheit\vortrag\auxil\Vortrag_14_04_2021.aux)
+\openout1 = `Vortrag_14_04_2021.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -957,7 +957,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 )
-Package hyperref Info: Link coloring OFF on input line 22.
+Package hyperref Info: Link coloring OFF on input line 20.
 
 (C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -971,66 +971,66 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count329
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
- (D:/git\gesundheit\vortrag\auxil\Vortrag_19_05_2021.out)
-(D:/git\gesundheit\vortrag\auxil\Vortrag_19_05_2021.out)
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
+ (D:/git\gesundheit\vortrag\auxil\Vortrag_14_04_2021.out)
+(D:/git\gesundheit\vortrag\auxil\Vortrag_14_04_2021.out)
 \@outlinefile=\write5
-\openout5 = `Vortrag_19_05_2021.out'.
+\openout5 = `Vortrag_14_04_2021.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 22.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 22.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 20.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 22.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 22.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 22.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 22.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 20.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 22.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 22.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 22.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 20.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 22.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 22.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 22.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 20.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 22.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 22.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 22.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 22.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 22.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 22.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 22.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 22.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 20.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 2
-2.
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 2
-2.
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 22.
+ut line 20.
 
 (C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
 asic-dictionary-English.dict
@@ -1056,74 +1056,112 @@ Dictionary: translator-numbers-dictionary, Language: English
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-(D:/git\gesundheit\vortrag\auxil\Vortrag_19_05_2021.nav)
-<../images/logo.png, id=61, 730.4088pt x 156.585pt>
+(D:/git\gesundheit\vortrag\auxil\Vortrag_14_04_2021.nav)
+<../images/logo.png, id=65, 730.4088pt x 156.585pt>
 File: ../images/logo.png Graphic file (type png)
 <use ../images/logo.png>
-Package pdftex.def Info: ../images/logo.png  used on input line 24.
+Package pdftex.def Info: ../images/logo.png  used on input line 22.
 (pdftex.def)             Requested size: 113.81102pt x 24.39705pt.
  [1
 
 {C:/Users/adria/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <../images/logo.
 png>]
-(D:/git\gesundheit\vortrag\auxil\Vortrag_19_05_2021.toc) [2
+(D:/git\gesundheit\vortrag\auxil\Vortrag_14_04_2021.toc) [2
 
 ] [3
 
-] [4
-
-] [5
-
-
 ]
-[6
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
+67.
 
+(C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
+File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
 
-] [7
-
-] [8
-
-
-]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 128
-.
 
 (C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 128
-.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
+
 
 (C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 128.
+ut line 67.
 
 (C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
 erncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [9
+) [4
 
-] [10
+] [5
+
+
+]
+<../images/wissensgesellschaft_1.png, id=245, 450.9347pt x 291.33844pt>
+File: ../images/wissensgesellschaft_1.png Graphic file (type png)
+<use ../images/wissensgesellschaft_1.png>
+Package pdftex.def Info: ../images/wissensgesellschaft_1.png  used on input lin
+e 99.
+(pdftex.def)             Requested size: 170.71652pt x 110.29633pt.
+<../images/wissensgesellschaft_2.png, id=246, 450.18187pt x 286.82156pt>
+File: ../images/wissensgesellschaft_2.png Graphic file (type png)
+<use ../images/wissensgesellschaft_2.png>
+Package pdftex.def Info: ../images/wissensgesellschaft_2.png  used on input lin
+e 99.
+(pdftex.def)             Requested size: 170.71652pt x 108.76573pt.
+<../images/wissensgesellschaft_3.png, id=247, 437.38406pt x 329.73187pt>
+File: ../images/wissensgesellschaft_3.png Graphic file (type png)
+<use ../images/wissensgesellschaft_3.png>
+Package pdftex.def Info: ../images/wissensgesellschaft_3.png  used on input lin
+e 99.
+(pdftex.def)             Requested size: 170.71652pt x 128.70056pt.
+<../images/wissensgesellschaft_4.png, id=248, 434.37282pt x 317.68687pt>
+File: ../images/wissensgesellschaft_4.png Graphic file (type png)
+<use ../images/wissensgesellschaft_4.png>
+Package pdftex.def Info: ../images/wissensgesellschaft_4.png  used on input lin
+e 99.
+(pdftex.def)             Requested size: 170.71652pt x 124.85718pt.
+ [6
+
+ <../images/wissensgesellschaft_1.png>] [7
+
+
+ <../images/wissensgesellschaft_2.png>] [8
+
+
+ <../images/wissensgesellschaft_3.png>] [9
+
+
+ <../images/wissensgesellschaft_4.png>]
+<../images/pyramide.png, id=357, 433.62pt x 462.22687pt>
+File: ../images/pyramide.png Graphic file (type png)
+<use ../images/pyramide.png>
+Package pdftex.def Info: ../images/pyramide.png  used on input line 135.
+(pdftex.def)             Requested size: 170.71652pt x 181.98163pt.
+ [10
 
 ] [11
 
 
-] [12
+ <../images/pyramide.png>] [12
+
 
 ] [13
 
-] [14
+]
+[14
+
 
 ] [15
-
 
 ] [16
 
 ] [17
-
 
 ] [18
 
@@ -1132,51 +1170,42 @@ thkerncmss.
 
 ] [20
 
-] [21
-
-]
-[22
-
-
-] [23
-
-
-] [24
-
 ]
 \tf@nav=\write6
-\openout6 = `Vortrag_19_05_2021.nav'.
+\openout6 = `Vortrag_14_04_2021.nav'.
 
 \tf@toc=\write7
-\openout7 = `Vortrag_19_05_2021.toc'.
+\openout7 = `Vortrag_14_04_2021.toc'.
 
 \tf@snm=\write8
-\openout8 = `Vortrag_19_05_2021.snm'.
+\openout8 = `Vortrag_14_04_2021.snm'.
 
- (D:/git\gesundheit\vortrag\auxil\Vortrag_19_05_2021.aux)
-Package rerunfilecheck Info: File `Vortrag_19_05_2021.out' has not changed.
-(rerunfilecheck)             Checksum: F46048EC1A769B65883C51E0AADF1427;480.
+
+(D:/git\gesundheit\vortrag\auxil\Vortrag_14_04_2021.aux)
+Package rerunfilecheck Info: File `Vortrag_14_04_2021.out' has not changed.
+(rerunfilecheck)             Checksum: 42D79F488D8FDEBB21A90DF676EFB56C;588.
  ) 
 Here is how much of TeX's memory you used:
- 19334 strings out of 479618
- 379189 string characters out of 2865027
- 679399 words of memory out of 3000000
- 35957 multiletter control sequences out of 15000+200000
- 415249 words of font info for 69 fonts, out of 3000000 for 9000
+ 19298 strings out of 479618
+ 377982 string characters out of 2865027
+ 678366 words of memory out of 3000000
+ 35922 multiletter control sequences out of 15000+200000
+ 412089 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,16n,132p,442b,826s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmss10.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmss12.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmss17.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/adria/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/adria/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/adria/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on D:/git\gesundheit\vortrag\out\Vortrag_19_05_2021.pdf (24 page
-s, 341398 bytes).
+ 131i,16n,132p,442b,819s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\adria\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss
+1000.pk><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmss10.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmss12.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmss17.pfb><C:/Users/adria/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/adria/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/adria/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/adria
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on D:/git\gesundheit\vortrag\out\Vortrag_14_04_2021.pdf (20 page
+s, 685754 bytes).
 PDF statistics:
- 940 PDF objects out of 1000 (max. 8388607)
- 59 named destinations out of 1000 (max. 500000)
- 732 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 743 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 435 words of extra memory for PDF output out of 10000 (max. 10000000)
 
