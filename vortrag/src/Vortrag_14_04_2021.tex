@@ -7,14 +7,28 @@
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{graphicx}
+\usepackage{ifthen} % Boolean variables
 
 \definecolor{hBlue}{RGB}{55,118,165}
 \usecolortheme[named=hBlue]{structure}
 
-\titlegraphic{\includegraphics[width=4cm]{../images/logo.png}}
+% Distiction between work and stream presentation
+\newboolean{work}
+\setboolean{work}{false}
+
+\ifthenelse{\boolean{work}}{
+    \titlegraphic{\includegraphics[width=4cm]{../images/logo.png}}
+}{}
 \title{Gesundheit \& Ernährung}
-\author{Adrian Helberg}
-\date{14.04.2021}
+\ifthenelse{\boolean{work}}{
+    \author{Adrian Helberg}
+    \date{14.04.2021}
+}{
+    \subtitle{twitch.tv/bl1nzlar}
+    \author{Bl1nzlar}
+    \date{\today}
+}
+
 
 % Document
 \begin{document}
@@ -209,7 +223,7 @@
             \item 1 EL Weizenkeimöl
             \item Saft einer halben Zitrone
             \item 1 EL Leinsamenschrot
-            \item Jeweils eine halbe Hand voll Nüsse (mind. 4 versch. Sorten)
+            \item Verschiedene Nüsse
             \item 1 TL Zimt
             \item 1 TL Kurkuma
             \item Eine Hand voll Beeren (Tipp: TK Beerenmix)
@@ -236,5 +250,15 @@
             \item 15 Stunden Fasten (bspw. 18:00 - 09:00)
         \end{itemize}
     \end{frame}
+
+    \section{Fragerunde}
+    {
+        \setbeamercolor{normal text}{fg=hBlue}\usebeamercolor*{normal text}
+        \begin{frame}
+            \begin{center}
+                \Huge Fragerunde
+            \end{center}
+        \end{frame}
+    }
 
 \end{document}
