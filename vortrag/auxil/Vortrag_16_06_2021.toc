@@ -3,6 +3,8 @@
 \beamer@subsectionintoc {1}{1}{Profil}{4}{0}{1}
 \beamer@subsectionintoc {1}{2}{Traubenzucker}{5}{0}{1}
 \beamer@subsectionintoc {1}{3}{Fruchtzucker}{9}{0}{1}
-\beamer@sectionintoc {2}{Stoffwechsel}{11}{0}{2}
-\beamer@sectionintoc {3}{Praxis}{20}{0}{3}
-\beamer@sectionintoc {4}{Fragerunde}{21}{0}{4}
+\beamer@subsectionintoc {1}{4}{Stoffwechsel}{11}{0}{1}
+\beamer@subsectionintoc {1}{5}{Insulinresistenz}{20}{0}{1}
+\beamer@subsectionintoc {1}{6}{Fruchtzuckerkonsum}{30}{0}{1}
+\beamer@sectionintoc {2}{Praxis}{31}{0}{2}
+\beamer@sectionintoc {3}{Fragerunde}{33}{0}{3}

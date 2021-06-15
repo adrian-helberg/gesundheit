@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  18 MAY 2021 20:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  15 JUN 2021 20:26
 entering extended mode
 **./Vortrag_19_05_2021.tex
 (Vortrag_19_05_2021.tex
@@ -1056,16 +1056,9 @@ Dictionary: translator-numbers-dictionary, Language: English
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-(D:/git\gesundheit\vortrag\auxil\Vortrag_19_05_2021.nav)
-<../images/logo.png, id=61, 730.4088pt x 156.585pt>
-File: ../images/logo.png Graphic file (type png)
-<use ../images/logo.png>
-Package pdftex.def Info: ../images/logo.png  used on input line 24.
-(pdftex.def)             Requested size: 113.81102pt x 24.39705pt.
- [1
+(D:/git\gesundheit\vortrag\auxil\Vortrag_19_05_2021.nav) [1
 
-{C:/Users/adria/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <../images/logo.
-png>]
+{C:/Users/adria/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 (D:/git\gesundheit\vortrag\auxil\Vortrag_19_05_2021.toc) [2
 
 ] [3
@@ -1158,10 +1151,10 @@ Package rerunfilecheck Info: File `Vortrag_19_05_2021.out' has not changed.
 (rerunfilecheck)             Checksum: F46048EC1A769B65883C51E0AADF1427;480.
  ) 
 Here is how much of TeX's memory you used:
- 19334 strings out of 479618
- 379189 string characters out of 2865027
- 679399 words of memory out of 3000000
- 35957 multiletter control sequences out of 15000+200000
+ 19331 strings out of 479618
+ 379114 string characters out of 2865027
+ 680319 words of memory out of 3000000
+ 35956 multiletter control sequences out of 15000+200000
  415249 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,16n,132p,442b,826s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1174,9 +1167,9 @@ TeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/adria/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/adria/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 Output written on D:/git\gesundheit\vortrag\out\Vortrag_19_05_2021.pdf (24 page
-s, 341398 bytes).
+s, 282836 bytes).
 PDF statistics:
- 940 PDF objects out of 1000 (max. 8388607)
+ 937 PDF objects out of 1000 (max. 8388607)
  59 named destinations out of 1000 (max. 500000)
- 732 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 727 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  12 JUN 2021 17:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  15 JUN 2021 20:26
 entering extended mode
 **./Vortrag_05_05_2021.tex
 (Vortrag_05_05_2021.tex
@@ -873,7 +873,7 @@ tex.def
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count322
 \l__pdf_internal_box=\box72
-) (D:/git\gesundheit\vortrag\out\Vortrag_05_05_2021.aux)
+) (D:/git\gesundheit\vortrag\auxil\Vortrag_05_05_2021.aux)
 \openout1 = `Vortrag_05_05_2021.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -974,8 +974,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 21.
 LaTeX Info: Redefining \pageref on input line 21.
 LaTeX Info: Redefining \nameref on input line 21.
- (D:/git\gesundheit\vortrag\out\Vortrag_05_05_2021.out)
-(D:/git\gesundheit\vortrag\out\Vortrag_05_05_2021.out)
+ (D:/git\gesundheit\vortrag\auxil\Vortrag_05_05_2021.out)
+(D:/git\gesundheit\vortrag\auxil\Vortrag_05_05_2021.out)
 \@outlinefile=\write5
 \openout5 = `Vortrag_05_05_2021.out'.
 
@@ -1056,10 +1056,10 @@ Dictionary: translator-numbers-dictionary, Language: English
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-(D:/git\gesundheit\vortrag\out\Vortrag_05_05_2021.nav) [1
+(D:/git\gesundheit\vortrag\auxil\Vortrag_05_05_2021.nav) [1
 
 {C:/Users/adria/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-(D:/git\gesundheit\vortrag\out\Vortrag_05_05_2021.toc) [2
+(D:/git\gesundheit\vortrag\auxil\Vortrag_05_05_2021.toc) [2
 
 ] [3
 
@@ -1188,13 +1188,13 @@ e 196.
 \tf@snm=\write8
 \openout8 = `Vortrag_05_05_2021.snm'.
 
- (D:/git\gesundheit\vortrag\out\Vortrag_05_05_2021.aux)
+ (D:/git\gesundheit\vortrag\auxil\Vortrag_05_05_2021.aux)
 Package rerunfilecheck Info: File `Vortrag_05_05_2021.out' has not changed.
 (rerunfilecheck)             Checksum: 2B8903F27203ED6DA73E30699BB3E49C;448.
  ) 
 Here is how much of TeX's memory you used:
  19303 strings out of 479618
- 378033 string characters out of 2865027
+ 378057 string characters out of 2865027
  685680 words of memory out of 3000000
  35930 multiletter control sequences out of 15000+200000
  414587 words of font info for 67 fonts, out of 3000000 for 9000
