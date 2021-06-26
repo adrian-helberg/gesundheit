@@ -1,0 +1,11 @@
+\babel@toc {ngerman}{}
+\beamer@sectionintoc {1}{Theorie}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Profil}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Sättigung}{8}{0}{1}
+\beamer@subsectionintoc {1}{3}{Nahrungsfette}{12}{0}{1}
+\beamer@subsectionintoc {1}{4}{Eicosanoide}{13}{0}{1}
+\beamer@subsectionintoc {1}{5}{Nachteile von MUFS}{16}{0}{1}
+\beamer@subsectionintoc {1}{6}{Tagesbedarf von MUFS}{17}{0}{1}
+\beamer@subsectionintoc {1}{7}{Cholesterin}{18}{0}{1}
+\beamer@sectionintoc {2}{Praxis}{20}{0}{2}
+\beamer@sectionintoc {3}{Fragerunde}{22}{0}{3}

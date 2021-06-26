@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  23 JUN 2021 19:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  26 JUN 2021 19:04
 entering extended mode
-**./Vortrag_16_06_2021.tex
-(Vortrag_16_06_2021.tex
+**./Vortrag_30_06_2021.tex
+(Vortrag_30_06_2021.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03>
 (C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
@@ -896,25 +896,25 @@ tex.def
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count326
 \l__pdf_internal_box=\box72
-) (D:/git\gesundheit\vortrag\auxil\Vortrag_16_06_2021.aux)
-\openout1 = `Vortrag_16_06_2021.aux'.
+) (D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.aux)
+\openout1 = `Vortrag_30_06_2021.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -972,7 +972,7 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-Package hyperref Info: Link coloring OFF on input line 36.
+Package hyperref Info: Link coloring OFF on input line 34.
 
 (C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -986,66 +986,66 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count333
 )
-LaTeX Info: Redefining \ref on input line 36.
-LaTeX Info: Redefining \pageref on input line 36.
-LaTeX Info: Redefining \nameref on input line 36.
- (D:/git\gesundheit\vortrag\auxil\Vortrag_16_06_2021.out)
-(D:/git\gesundheit\vortrag\auxil\Vortrag_16_06_2021.out)
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
+ (D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.out)
+(D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.out)
 \@outlinefile=\write5
-\openout5 = `Vortrag_16_06_2021.out'.
+\openout5 = `Vortrag_30_06_2021.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 36.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 34.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 36.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 34.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 36.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 36.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 36.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 36.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 36.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 36.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 36.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 36.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 36.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 34.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 36.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 34.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 36.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 36.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 36.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 36.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 36.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 36.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 36.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 34.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 34.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 3
-6.
+4.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 3
-6.
+4.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 36.
+ut line 34.
 
 (C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
 asic-dictionary-English.dict
@@ -1071,297 +1071,175 @@ Dictionary: translator-numbers-dictionary, Language: English
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-(D:/git\gesundheit\vortrag\auxil\Vortrag_16_06_2021.nav) [1
+(D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.nav)
+<../images/logo.png, id=65, 730.4088pt x 156.585pt>
+File: ../images/logo.png Graphic file (type png)
+<use ../images/logo.png>
+Package pdftex.def Info: ../images/logo.png  used on input line 36.
+(pdftex.def)             Requested size: 113.81102pt x 24.39705pt.
+ [1
 
-{C:/Users/adria/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-(D:/git\gesundheit\vortrag\auxil\Vortrag_16_06_2021.toc) [2
+{C:/Users/adria/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <../images/logo.
+png>]
+(D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.toc) [2
 
 ] [3
 
 ]
-<../images/t.png, id=181, 91.09032pt x 85.06781pt>
-File: ../images/t.png Graphic file (type png)
-<use ../images/t.png>
-Package pdftex.def Info: ../images/t.png  used on input line 71.
-(pdftex.def)             Requested size: 28.45274pt x 26.57063pt.
+<../images/fett.png, id=175, 783.67781pt x 337.26pt>
+File: ../images/fett.png Graphic file (type png)
+<use ../images/fett.png>
+Package pdftex.def Info: ../images/fett.png  used on input line 93.
+(pdftex.def)             Requested size: 284.52756pt x 122.44788pt.
+<../images/fs.png, id=192, 227.34938pt x 89.58469pt>
+File: ../images/fs.png Graphic file (type png)
+<use ../images/fs.png>
+Package pdftex.def Info: ../images/fs.png  used on input line 93.
+(pdftex.def)             Requested size: 56.9055pt x 22.42207pt.
+<../images/fs.jpg, id=193, 1927.2pt x 942.52126pt>
+File: ../images/fs.jpg Graphic file (type jpg)
+<use ../images/fs.jpg>
+Package pdftex.def Info: ../images/fs.jpg  used on input line 93.
+(pdftex.def)             Requested size: 284.52756pt x 139.14293pt.
+<../images/fs_2.png, id=194, 706.89093pt x 354.57469pt>
+File: ../images/fs_2.png Graphic file (type png)
+<use ../images/fs_2.png>
+Package pdftex.def Info: ../images/fs_2.png  used on input line 93.
+(pdftex.def)             Requested size: 284.52756pt x 142.72006pt.
  [4
 
- <../images/t.png>]
-<../images/t_energie.png, id=221, 276.28218pt x 83.5622pt>
-File: ../images/t_energie.png Graphic file (type png)
-<use ../images/t_energie.png>
-Package pdftex.def Info: ../images/t_energie.png  used on input line 135.
-(pdftex.def)             Requested size: 85.35826pt x 25.81602pt.
-File: ../images/t.png Graphic file (type png)
-<use ../images/t.png>
-Package pdftex.def Info: ../images/t.png  used on input line 135.
-(pdftex.def)             Requested size: 28.45274pt x 26.57063pt.
-<../images/t_2.png, id=222, 166.37157pt x 82.05656pt>
-File: ../images/t_2.png Graphic file (type png)
-<use ../images/t_2.png>
-Package pdftex.def Info: ../images/t_2.png  used on input line 135.
-(pdftex.def)             Requested size: 56.9055pt x 28.06538pt.
-<../images/t_n.png, id=223, 472.01344pt x 84.315pt>
-File: ../images/t_n.png Graphic file (type png)
-<use ../images/t_n.png>
-Package pdftex.def Info: ../images/t_n.png  used on input line 135.
-(pdftex.def)             Requested size: 153.6447pt x 27.44579pt.
-<../images/pflanzenfasern.png, id=224, 701.62125pt x 172.39406pt>
-File: ../images/pflanzenfasern.png Graphic file (type png)
-<use ../images/pflanzenfasern.png>
-Package pdftex.def Info: ../images/pflanzenfasern.png  used on input line 135.
-(pdftex.def)             Requested size: 227.62204pt x 55.92743pt.
-<../images/samen.png, id=225, 678.28406pt x 164.11313pt>
-File: ../images/samen.png Graphic file (type png)
-<use ../images/samen.png>
-Package pdftex.def Info: ../images/samen.png  used on input line 135.
-(pdftex.def)             Requested size: 227.62204pt x 55.0715pt.
- [5
-
- <../images/t_energie.png>] [6
+ <../images/fett.png>] [5
 
 
- <../images/t_2.png> <../images/t_n.png>] [7
+ <../images/fs.png>] [6
 
 
- <../images/pflanzenfasern.png> <../images/samen.png>] [8
+ <../images/fs.jpg>] [7
 
 
-]
-<../images/F.png, id=387, 73.02281pt x 66.2475pt>
-File: ../images/F.png Graphic file (type png)
-<use ../images/F.png>
-Package pdftex.def Info: ../images/F.png  used on input line 168.
-(pdftex.def)             Requested size: 28.45274pt x 25.81316pt.
-<../images/zucker.png, id=388, 138.5175pt x 73.77562pt>
-File: ../images/zucker.png Graphic file (type png)
-<use ../images/zucker.png>
-Package pdftex.def Info: ../images/zucker.png  used on input line 168.
-(pdftex.def)             Requested size: 51.21504pt x 27.2774pt.
-<../images/t_f.png, id=389, 896.59969pt x 413.29407pt>
-File: ../images/t_f.png Graphic file (type png)
-<use ../images/t_f.png>
-Package pdftex.def Info: ../images/t_f.png  used on input line 168.
-(pdftex.def)             Requested size: 284.52756pt x 131.15318pt.
- [9
+ <../images/fs_2.png>]
+<../images/fs_3.jpeg, id=302, 1001.7425pt x 278.03876pt>
+File: ../images/fs_3.jpeg Graphic file (type jpg)
+<use ../images/fs_3.jpeg>
+Package pdftex.def Info: ../images/fs_3.jpeg  used on input line 147.
+(pdftex.def)             Requested size: 227.62204pt x 63.17542pt.
+<../images/fs_4.png, id=303, 514.92375pt x 196.48407pt>
+File: ../images/fs_4.png Graphic file (type png)
+<use ../images/fs_4.png>
+Package pdftex.def Info: ../images/fs_4.png  used on input line 147.
+(pdftex.def)             Requested size: 227.62204pt x 86.855pt.
+<../images/nahrungsfette.png, id=340, 891.33pt x 435.12563pt>
+File: ../images/nahrungsfette.png Graphic file (type png)
+<use ../images/nahrungsfette.png>
+Package pdftex.def Info: ../images/nahrungsfette.png  used on input line 147.
+(pdftex.def)             Requested size: 284.52756pt x 138.89778pt.
+[8
 
- <../images/F.png> <../images/zucker.png>] [10
-
-
- <../images/t_f.png>]
-<../images/wall.png, id=465, 236.38312pt x 66.2475pt>
-File: ../images/wall.png Graphic file (type png)
-<use ../images/wall.png>
-Package pdftex.def Info: ../images/wall.png  used on input line 277.
-(pdftex.def)             Requested size: 85.35826pt x 23.92186pt.
-<../images/verdauung.jpg, id=478, 1927.2pt x 1084.05pt>
-File: ../images/verdauung.jpg Graphic file (type jpg)
-<use ../images/verdauung.jpg>
-Package pdftex.def Info: ../images/verdauung.jpg  used on input line 277.
-(pdftex.def)             Requested size: 199.16928pt x 112.01733pt.
-<../images/blut_1.png, id=479, 553.31718pt x 356.83313pt>
-File: ../images/blut_1.png Graphic file (type png)
-<use ../images/blut_1.png>
-Package pdftex.def Info: ../images/blut_1.png  used on input line 277.
-(pdftex.def)             Requested size: 170.71652pt x 110.0944pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 277
-.
-
-(C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 277
-.
-
-(C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 277.
-
-(C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
-erncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-)
-<../images/blut_2.png, id=492, 598.48593pt x 338.01282pt>
-File: ../images/blut_2.png Graphic file (type png)
-<use ../images/blut_2.png>
-Package pdftex.def Info: ../images/blut_2.png  used on input line 277.
-(pdftex.def)             Requested size: 142.26378pt x 80.34592pt.
-<../images/blut_3.png, id=493, 598.48593pt x 336.50719pt>
-File: ../images/blut_3.png Graphic file (type png)
-<use ../images/blut_3.png>
-Package pdftex.def Info: ../images/blut_3.png  used on input line 277.
-(pdftex.def)             Requested size: 142.26378pt x 79.98802pt.
-<../images/leber_1.png, id=494, 411.03563pt x 474.27188pt>
-File: ../images/leber_1.png Graphic file (type png)
-<use ../images/leber_1.png>
-Package pdftex.def Info: ../images/leber_1.png  used on input line 277.
-(pdftex.def)             Requested size: 142.26378pt x 164.14502pt.
-<../images/fettgewebe.png, id=495, 757.32938pt x 288.3272pt>
-File: ../images/fettgewebe.png Graphic file (type png)
-<use ../images/fettgewebe.png>
-Package pdftex.def Info: ../images/fettgewebe.png  used on input line 277.
-(pdftex.def)             Requested size: 284.52756pt x 108.3248pt.
-<../images/nüchtern.png, id=496, 196.48407pt x 164.11313pt>
-File: ../images/nüchtern.png Graphic file (type png)
-<use ../images/nüchtern.png>
-Package pdftex.def Info: ../images/nüchtern.png  used on input line 277.
-(pdftex.def)             Requested size: 56.9055pt x 47.52898pt.
-<../images/nüchtern_1.png, id=497, 196.48407pt x 166.37157pt>
-File: ../images/nüchtern_1.png Graphic file (type png)
-<use ../images/nüchtern_1.png>
-Package pdftex.def Info: ../images/nüchtern_1.png  used on input line 277.
-(pdftex.def)             Requested size: 56.9055pt x 48.18304pt.
-<../images/nüchtern_2.png, id=498, 198.7425pt x 164.86594pt>
-File: ../images/nüchtern_2.png Graphic file (type png)
-<use ../images/nüchtern_2.png>
-Package pdftex.def Info: ../images/nüchtern_2.png  used on input line 277.
-(pdftex.def)             Requested size: 56.9055pt x 47.20613pt.
-<../images/nüchtern_3.png, id=499, 197.23688pt x 164.86594pt>
-File: ../images/nüchtern_3.png Graphic file (type png)
-<use ../images/nüchtern_3.png>
-Package pdftex.def Info: ../images/nüchtern_3.png  used on input line 277.
-(pdftex.def)             Requested size: 56.9055pt x 47.56587pt.
- [11
-
- <../images/wall.png>] [12
+ <../images/fs_3.jpeg> <../images/fs_4.png>] [9
 
 
- <../images/verdauung.jpg>] [13
+] [10
 
 
- <../images/blut_1.png>] [14
+] [11
 
 
-] [15
+ <../images/nahrungsfette.png>]
+<../images/fettprofile.png, id=446, 549.55313pt x 295.85532pt>
+File: ../images/fettprofile.png Graphic file (type png)
+<use ../images/fettprofile.png>
+Package pdftex.def Info: ../images/fettprofile.png  used on input line 159.
+(pdftex.def)             Requested size: 284.52756pt x 153.18202pt.
+ [12
+
+ <../images/fettprofile.png>]
+<../images/eico.png, id=485, 536.0025pt x 137.01187pt>
+File: ../images/eico.png Graphic file (type png)
+<use ../images/eico.png>
+Package pdftex.def Info: ../images/eico.png  used on input line 195.
+(pdftex.def)             Requested size: 227.62204pt x 58.18433pt.
+<../images/eico_1.jpg, id=486, 1927.2pt x 761.84625pt>
+File: ../images/eico_1.jpg Graphic file (type jpg)
+<use ../images/eico_1.jpg>
+Package pdftex.def Info: ../images/eico_1.jpg  used on input line 195.
+(pdftex.def)             Requested size: 284.52756pt x 112.47015pt.
+<../images/eico_2.png, id=487, 703.87968pt x 412.54124pt>
+File: ../images/eico_2.png Graphic file (type png)
+<use ../images/eico_2.png>
+Package pdftex.def Info: ../images/eico_2.png  used on input line 195.
+(pdftex.def)             Requested size: 284.52756pt x 166.75725pt.
+ [13
+
+ <../images/eico.png>] [14
 
 
- <../images/blut_2.png> <../images/blut_3.png>]
-[16
+ <../images/eico_1.jpg>] [15
 
 
- <../images/leber_1.png>] [17
-
-
- <../images/fettgewebe.png>] [18
-
-
- <../images/nüchtern.png> <../images/nüchtern_1.png> <../images/nüchtern_2.p
-ng> <../images/nüchtern_3.png>] [19
-
+ <../images/eico_2.png>] [16
 
 ]
-<../images/resistenz.png, id=758, 728.7225pt x 407.27156pt>
-File: ../images/resistenz.png Graphic file (type png)
-<use ../images/resistenz.png>
-Package pdftex.def Info: ../images/resistenz.png  used on input line 404.
-(pdftex.def)             Requested size: 284.52756pt x 159.01547pt.
-<../images/problem_leber.png, id=783, 599.99156pt x 336.50719pt>
-File: ../images/problem_leber.png Graphic file (type png)
-<use ../images/problem_leber.png>
-Package pdftex.def Info: ../images/problem_leber.png  used on input line 404.
-(pdftex.def)             Requested size: 170.71652pt x 95.74635pt.
-<../images/problem_zusammenfassung.png, id=805, 880.03781pt x 242.40562pt>
-File: ../images/problem_zusammenfassung.png Graphic file (type png)
-<use ../images/problem_zusammenfassung.png>
-Package pdftex.def Info: ../images/problem_zusammenfassung.png  used on input l
-ine 404.
-(pdftex.def)             Requested size: 341.43306pt x 94.04585pt.
-<../images/ursache_1.png, id=818, 518.6878pt x 335.75438pt>
-File: ../images/ursache_1.png Graphic file (type png)
-<use ../images/ursache_1.png>
-Package pdftex.def Info: ../images/ursache_1.png  used on input line 404.
-(pdftex.def)             Requested size: 113.81102pt x 73.67151pt.
-<../images/ursache_2.png, id=831, 342.5297pt x 155.07938pt>
-File: ../images/ursache_2.png Graphic file (type png)
-<use ../images/ursache_2.png>
-Package pdftex.def Info: ../images/ursache_2.png  used on input line 404.
-(pdftex.def)             Requested size: 113.81102pt x 51.52655pt.
-<../images/ursache_2_2.png, id=832, 412.54124pt x 187.45032pt>
-File: ../images/ursache_2_2.png Graphic file (type png)
-<use ../images/ursache_2_2.png>
-Package pdftex.def Info: ../images/ursache_2_2.png  used on input line 404.
-(pdftex.def)             Requested size: 113.81102pt x 51.71346pt.
-<../images/ursache_3.png, id=857, 482.55281pt x 207.02344pt>
-File: ../images/ursache_3.png Graphic file (type png)
-<use ../images/ursache_3.png>
-Package pdftex.def Info: ../images/ursache_3.png  used on input line 404.
-(pdftex.def)             Requested size: 227.62204pt x 97.65166pt.
- [20
+<../images/hering.jpg, id=605, 570.13pt x 321.2pt>
+File: ../images/hering.jpg Graphic file (type jpg)
+<use ../images/hering.jpg>
+Package pdftex.def Info: ../images/hering.jpg  used on input line 224.
+(pdftex.def)             Requested size: 113.81102pt x 64.11633pt.
+<../images/leinsamen.jpg, id=606, 797.98125pt x 531.9875pt>
+File: ../images/leinsamen.jpg Graphic file (type jpg)
+<use ../images/leinsamen.jpg>
+Package pdftex.def Info: ../images/leinsamen.jpg  used on input line 224.
+(pdftex.def)             Requested size: 113.81102pt x 75.87395pt.
+<../images/walnüsse.jpg, id=607, 99.11314pt x 99.11314pt>
+File: ../images/walnüsse.jpg Graphic file (type jpg)
+<use ../images/walnüsse.jpg>
+Package pdftex.def Info: ../images/walnüsse.jpg  used on input line 224.
+(pdftex.def)             Requested size: 113.81102pt x 113.81436pt.
+ [17
 
- <../images/resistenz.png>] [21
+ <../images/hering.jpg> <../images/leinsamen.jpg> <../images/walnüsse.jpg>] [1
+8
+
+] [19
 
 
-] [22
+] [20
 
+] [21
 
- <../images/problem_leber.png>] [23
-
-
-] [24
-
-
-] [25
-
-
- <../images/problem_zusammenfassung.png>] [26
-
-
- <../images/ursache_1.png>] [27
-
-
- <../images/ursache_2.png> <../images/ursache_2_2.png>] [28
-
-
-] [29
-
-
- <../images/ursache_3.png>] [30
-
-] [31
-
-] [32
-
-] [33
+]
+[22
 
 ]
 \tf@nav=\write6
-\openout6 = `Vortrag_16_06_2021.nav'.
+\openout6 = `Vortrag_30_06_2021.nav'.
 
 \tf@toc=\write7
-\openout7 = `Vortrag_16_06_2021.toc'.
+\openout7 = `Vortrag_30_06_2021.toc'.
 
 \tf@snm=\write8
-\openout8 = `Vortrag_16_06_2021.snm'.
+\openout8 = `Vortrag_30_06_2021.snm'.
 
-
-(D:/git\gesundheit\vortrag\auxil\Vortrag_16_06_2021.aux)
-Package rerunfilecheck Info: File `Vortrag_16_06_2021.out' has not changed.
-(rerunfilecheck)             Checksum: 14C30FCC5D119DEAA166B90A4563DB7F;502.
+ (D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.aux)
+Package rerunfilecheck Info: File `Vortrag_30_06_2021.out' has not changed.
+(rerunfilecheck)             Checksum: 6D0ACE42C40FBE40E586A45056D24FA2;568.
  ) 
 Here is how much of TeX's memory you used:
- 19743 strings out of 479618
- 386603 string characters out of 2865027
- 700853 words of memory out of 3000000
- 36316 multiletter control sequences out of 15000+200000
- 415481 words of font info for 70 fonts, out of 3000000 for 9000
+ 19457 strings out of 479618
+ 379232 string characters out of 2865027
+ 681182 words of memory out of 3000000
+ 36090 multiletter control sequences out of 15000+200000
+ 406160 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,16n,132p,442b,814s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 131i,16n,132p,442b,827s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmmi10.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmss10.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmss12.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/adria/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/adria/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/adria/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/adri
-a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on D:/git\gesundheit\vortrag\out\Vortrag_16_06_2021.pdf (33 page
-s, 1588820 bytes).
+cmss10.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmss12.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmss17.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmss8.pfb>
+Output written on D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.pdf (22 page
+s, 1419454 bytes).
 PDF statistics:
- 1311 PDF objects out of 1440 (max. 8388607)
- 76 named destinations out of 1000 (max. 500000)
- 1102 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 829 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
+ 594 words of extra memory for PDF output out of 10000 (max. 10000000)
 
