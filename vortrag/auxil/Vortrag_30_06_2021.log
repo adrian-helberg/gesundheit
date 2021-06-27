@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  26 JUN 2021 19:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  27 JUN 2021 13:34
 entering extended mode
 **./Vortrag_30_06_2021.tex
 (Vortrag_30_06_2021.tex
@@ -896,7 +896,7 @@ tex.def
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count326
 \l__pdf_internal_box=\box72
-) (D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.aux)
+) (D:/git\gesundheit\vortrag\auxil\Vortrag_30_06_2021.aux)
 \openout1 = `Vortrag_30_06_2021.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -989,8 +989,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
- (D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.out)
-(D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.out)
+ (D:/git\gesundheit\vortrag\auxil\Vortrag_30_06_2021.out)
+(D:/git\gesundheit\vortrag\auxil\Vortrag_30_06_2021.out)
 \@outlinefile=\write5
 \openout5 = `Vortrag_30_06_2021.out'.
 
@@ -1071,8 +1071,8 @@ Dictionary: translator-numbers-dictionary, Language: English
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-(D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.nav)
-<../images/logo.png, id=65, 730.4088pt x 156.585pt>
+(D:/git\gesundheit\vortrag\auxil\Vortrag_30_06_2021.nav)
+<../images/logo.png, id=69, 730.4088pt x 156.585pt>
 File: ../images/logo.png Graphic file (type png)
 <use ../images/logo.png>
 Package pdftex.def Info: ../images/logo.png  used on input line 36.
@@ -1081,27 +1081,27 @@ Package pdftex.def Info: ../images/logo.png  used on input line 36.
 
 {C:/Users/adria/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <../images/logo.
 png>]
-(D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.toc) [2
+(D:/git\gesundheit\vortrag\auxil\Vortrag_30_06_2021.toc) [2
 
 ] [3
 
 ]
-<../images/fett.png, id=175, 783.67781pt x 337.26pt>
+<../images/fett.png, id=181, 783.67781pt x 337.26pt>
 File: ../images/fett.png Graphic file (type png)
 <use ../images/fett.png>
 Package pdftex.def Info: ../images/fett.png  used on input line 93.
 (pdftex.def)             Requested size: 284.52756pt x 122.44788pt.
-<../images/fs.png, id=192, 227.34938pt x 89.58469pt>
+<../images/fs.png, id=198, 227.34938pt x 89.58469pt>
 File: ../images/fs.png Graphic file (type png)
 <use ../images/fs.png>
 Package pdftex.def Info: ../images/fs.png  used on input line 93.
 (pdftex.def)             Requested size: 56.9055pt x 22.42207pt.
-<../images/fs.jpg, id=193, 1927.2pt x 942.52126pt>
+<../images/fs.jpg, id=199, 1927.2pt x 942.52126pt>
 File: ../images/fs.jpg Graphic file (type jpg)
 <use ../images/fs.jpg>
 Package pdftex.def Info: ../images/fs.jpg  used on input line 93.
 (pdftex.def)             Requested size: 284.52756pt x 139.14293pt.
-<../images/fs_2.png, id=194, 706.89093pt x 354.57469pt>
+<../images/fs_2.png, id=200, 706.89093pt x 354.57469pt>
 File: ../images/fs_2.png Graphic file (type png)
 <use ../images/fs_2.png>
 Package pdftex.def Info: ../images/fs_2.png  used on input line 93.
@@ -1118,22 +1118,22 @@ Package pdftex.def Info: ../images/fs_2.png  used on input line 93.
 
 
  <../images/fs_2.png>]
-<../images/fs_3.jpeg, id=302, 1001.7425pt x 278.03876pt>
+<../images/fs_3.jpeg, id=308, 1001.7425pt x 278.03876pt>
 File: ../images/fs_3.jpeg Graphic file (type jpg)
 <use ../images/fs_3.jpeg>
 Package pdftex.def Info: ../images/fs_3.jpeg  used on input line 147.
 (pdftex.def)             Requested size: 227.62204pt x 63.17542pt.
-<../images/fs_4.png, id=303, 514.92375pt x 196.48407pt>
+<../images/fs_4.png, id=309, 514.92375pt x 196.48407pt>
 File: ../images/fs_4.png Graphic file (type png)
 <use ../images/fs_4.png>
 Package pdftex.def Info: ../images/fs_4.png  used on input line 147.
 (pdftex.def)             Requested size: 227.62204pt x 86.855pt.
-<../images/nahrungsfette.png, id=340, 891.33pt x 435.12563pt>
+<../images/nahrungsfette.png, id=346, 891.33pt x 435.12563pt>
 File: ../images/nahrungsfette.png Graphic file (type png)
 <use ../images/nahrungsfette.png>
 Package pdftex.def Info: ../images/nahrungsfette.png  used on input line 147.
 (pdftex.def)             Requested size: 284.52756pt x 138.89778pt.
-[8
+ [8
 
  <../images/fs_3.jpeg> <../images/fs_4.png>] [9
 
@@ -1145,7 +1145,7 @@ Package pdftex.def Info: ../images/nahrungsfette.png  used on input line 147.
 
 
  <../images/nahrungsfette.png>]
-<../images/fettprofile.png, id=446, 549.55313pt x 295.85532pt>
+<../images/fettprofile.png, id=452, 549.55313pt x 295.85532pt>
 File: ../images/fettprofile.png Graphic file (type png)
 <use ../images/fettprofile.png>
 Package pdftex.def Info: ../images/fettprofile.png  used on input line 159.
@@ -1153,24 +1153,25 @@ Package pdftex.def Info: ../images/fettprofile.png  used on input line 159.
  [12
 
  <../images/fettprofile.png>]
-<../images/eico.png, id=485, 536.0025pt x 137.01187pt>
+<../images/eico.png, id=491, 536.0025pt x 137.01187pt>
 File: ../images/eico.png Graphic file (type png)
 <use ../images/eico.png>
 Package pdftex.def Info: ../images/eico.png  used on input line 195.
 (pdftex.def)             Requested size: 227.62204pt x 58.18433pt.
-<../images/eico_1.jpg, id=486, 1927.2pt x 761.84625pt>
+<../images/eico_1.jpg, id=492, 1927.2pt x 761.84625pt>
 File: ../images/eico_1.jpg Graphic file (type jpg)
 <use ../images/eico_1.jpg>
 Package pdftex.def Info: ../images/eico_1.jpg  used on input line 195.
 (pdftex.def)             Requested size: 284.52756pt x 112.47015pt.
-<../images/eico_2.png, id=487, 703.87968pt x 412.54124pt>
+<../images/eico_2.png, id=493, 703.87968pt x 412.54124pt>
 File: ../images/eico_2.png Graphic file (type png)
 <use ../images/eico_2.png>
 Package pdftex.def Info: ../images/eico_2.png  used on input line 195.
 (pdftex.def)             Requested size: 284.52756pt x 166.75725pt.
  [13
 
- <../images/eico.png>] [14
+ <../images/eico.png>]
+[14
 
 
  <../images/eico_1.jpg>] [15
@@ -1179,35 +1180,122 @@ Package pdftex.def Info: ../images/eico_2.png  used on input line 195.
  <../images/eico_2.png>] [16
 
 ]
-<../images/hering.jpg, id=605, 570.13pt x 321.2pt>
+<../images/hering.jpg, id=611, 570.13pt x 321.2pt>
 File: ../images/hering.jpg Graphic file (type jpg)
 <use ../images/hering.jpg>
 Package pdftex.def Info: ../images/hering.jpg  used on input line 224.
 (pdftex.def)             Requested size: 113.81102pt x 64.11633pt.
-<../images/leinsamen.jpg, id=606, 797.98125pt x 531.9875pt>
+<../images/leinsamen.jpg, id=612, 797.98125pt x 531.9875pt>
 File: ../images/leinsamen.jpg Graphic file (type jpg)
 <use ../images/leinsamen.jpg>
 Package pdftex.def Info: ../images/leinsamen.jpg  used on input line 224.
 (pdftex.def)             Requested size: 113.81102pt x 75.87395pt.
-<../images/walnüsse.jpg, id=607, 99.11314pt x 99.11314pt>
+<../images/walnüsse.jpg, id=613, 99.11314pt x 99.11314pt>
 File: ../images/walnüsse.jpg Graphic file (type jpg)
 <use ../images/walnüsse.jpg>
 Package pdftex.def Info: ../images/walnüsse.jpg  used on input line 224.
 (pdftex.def)             Requested size: 113.81102pt x 113.81436pt.
  [17
 
- <../images/hering.jpg> <../images/leinsamen.jpg> <../images/walnüsse.jpg>] [1
-8
+ <../images/hering.jpg> <../images/leinsamen.jpg> <../images/walnüsse.jpg>]
+<../images/cholesterin.png, id=677, 138.5175pt x 130.98938pt>
+File: ../images/cholesterin.png Graphic file (type png)
+<use ../images/cholesterin.png>
+Package pdftex.def Info: ../images/cholesterin.png  used on input line 333.
+(pdftex.def)             Requested size: 28.45274pt x 26.90495pt.
+<../images/ader.png, id=678, 706.89093pt x 328.22626pt>
+File: ../images/ader.png Graphic file (type png)
+<use ../images/ader.png>
+Package pdftex.def Info: ../images/ader.png  used on input line 333.
+(pdftex.def)             Requested size: 284.52756pt x 132.11455pt.
+<../images/ader_2.png, id=679, 607.51968pt x 284.56313pt>
+File: ../images/ader_2.png Graphic file (type png)
+<use ../images/ader_2.png>
+Package pdftex.def Info: ../images/ader_2.png  used on input line 333.
+(pdftex.def)             Requested size: 284.52756pt x 133.27574pt.
+<../images/ader_3.png, id=680, 607.51968pt x 283.81032pt>
+File: ../images/ader_3.png Graphic file (type png)
+<use ../images/ader_3.png>
+Package pdftex.def Info: ../images/ader_3.png  used on input line 333.
+(pdftex.def)             Requested size: 284.52756pt x 132.92316pt.
+<../images/ader_4.png, id=681, 609.02531pt x 283.81032pt>
+File: ../images/ader_4.png Graphic file (type png)
+<use ../images/ader_4.png>
+Package pdftex.def Info: ../images/ader_4.png  used on input line 333.
+(pdftex.def)             Requested size: 284.52756pt x 132.59402pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 333
+.
+
+(C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 333
+.
+
+(C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 333.
+
+(C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
+erncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+<../images/90er.png, id=694, 852.18375pt x 453.94594pt>
+File: ../images/90er.png Graphic file (type png)
+<use ../images/90er.png>
+Package pdftex.def Info: ../images/90er.png  used on input line 333.
+(pdftex.def)             Requested size: 284.52756pt x 151.56198pt.
+ [18
 
 ] [19
 
 
-] [20
+ <../images/cholesterin.png>] [20
 
-] [21
+
+ <../images/ader.png>]
+[21
+
+
+ <../images/ader_2.png>] [22
+
+
+ <../images/ader_3.png>] [23
+
+
+ <../images/ader_4.png>] [24
+
+
+] [25
+
+
+ <../images/90er.png>] [26
+
 
 ]
-[22
+<../images/lipo.png, id=961, 257.46187pt x 98.61844pt>
+File: ../images/lipo.png Graphic file (type png)
+<use ../images/lipo.png>
+Package pdftex.def Info: ../images/lipo.png  used on input line 370.
+(pdftex.def)             Requested size: 56.9055pt x 21.79694pt.
+<../images/lipo_1.png, id=962, 425.33907pt x 340.27126pt>
+File: ../images/lipo_1.png Graphic file (type png)
+<use ../images/lipo_1.png>
+Package pdftex.def Info: ../images/lipo_1.png  used on input line 370.
+(pdftex.def)             Requested size: 199.16928pt x 159.3356pt.
+ [27
+
+ <../images/lipo.png>] [28
+
+
+ <../images/lipo_1.png>] [29
+
+] [30
+
+] [31
 
 ]
 \tf@nav=\write6
@@ -1219,27 +1307,29 @@ Package pdftex.def Info: ../images/walnüsse.jpg  used on input line 224.
 \tf@snm=\write8
 \openout8 = `Vortrag_30_06_2021.snm'.
 
- (D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.aux)
+
+(D:/git\gesundheit\vortrag\auxil\Vortrag_30_06_2021.aux)
 Package rerunfilecheck Info: File `Vortrag_30_06_2021.out' has not changed.
-(rerunfilecheck)             Checksum: 6D0ACE42C40FBE40E586A45056D24FA2;568.
+(rerunfilecheck)             Checksum: 903CA796BE59687E80B08E13E287A8FF;630.
  ) 
 Here is how much of TeX's memory you used:
- 19457 strings out of 479618
- 379232 string characters out of 2865027
- 681182 words of memory out of 3000000
- 36090 multiletter control sequences out of 15000+200000
- 406160 words of font info for 36 fonts, out of 3000000 for 9000
+ 19638 strings out of 479618
+ 383287 string characters out of 2865027
+ 690397 words of memory out of 3000000
+ 36222 multiletter control sequences out of 15000+200000
+ 411098 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,16n,132p,442b,827s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmss10.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmss12.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmss17.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.pdf (22 page
-s, 1419454 bytes).
+s/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/adria/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.pdf (31 page
+s, 1645157 bytes).
 PDF statistics:
- 829 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
- 594 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1130 PDF objects out of 1200 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 750 words of extra memory for PDF output out of 10000 (max. 10000000)
 
