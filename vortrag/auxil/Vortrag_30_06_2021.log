@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  27 JUN 2021 19:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  29 JUN 2021 09:31
 entering extended mode
 **./Vortrag_30_06_2021.tex
 (Vortrag_30_06_2021.tex
@@ -1121,17 +1121,17 @@ Package pdftex.def Info: ../images/fs_2.png  used on input line 93.
 <../images/fs_3.jpeg, id=308, 1001.7425pt x 278.03876pt>
 File: ../images/fs_3.jpeg Graphic file (type jpg)
 <use ../images/fs_3.jpeg>
-Package pdftex.def Info: ../images/fs_3.jpeg  used on input line 147.
+Package pdftex.def Info: ../images/fs_3.jpeg  used on input line 146.
 (pdftex.def)             Requested size: 227.62204pt x 63.17542pt.
 <../images/fs_4.png, id=309, 514.92375pt x 196.48407pt>
 File: ../images/fs_4.png Graphic file (type png)
 <use ../images/fs_4.png>
-Package pdftex.def Info: ../images/fs_4.png  used on input line 147.
+Package pdftex.def Info: ../images/fs_4.png  used on input line 146.
 (pdftex.def)             Requested size: 227.62204pt x 86.855pt.
 <../images/nahrungsfette.png, id=346, 891.33pt x 435.12563pt>
 File: ../images/nahrungsfette.png Graphic file (type png)
 <use ../images/nahrungsfette.png>
-Package pdftex.def Info: ../images/nahrungsfette.png  used on input line 147.
+Package pdftex.def Info: ../images/nahrungsfette.png  used on input line 146.
 (pdftex.def)             Requested size: 284.52756pt x 138.89778pt.
  [8
 
@@ -1148,7 +1148,7 @@ Package pdftex.def Info: ../images/nahrungsfette.png  used on input line 147.
 <../images/fettprofile.png, id=452, 549.55313pt x 295.85532pt>
 File: ../images/fettprofile.png Graphic file (type png)
 <use ../images/fettprofile.png>
-Package pdftex.def Info: ../images/fettprofile.png  used on input line 159.
+Package pdftex.def Info: ../images/fettprofile.png  used on input line 158.
 (pdftex.def)             Requested size: 284.52756pt x 153.18202pt.
  [12
 
@@ -1156,17 +1156,17 @@ Package pdftex.def Info: ../images/fettprofile.png  used on input line 159.
 <../images/eico.png, id=491, 536.0025pt x 137.01187pt>
 File: ../images/eico.png Graphic file (type png)
 <use ../images/eico.png>
-Package pdftex.def Info: ../images/eico.png  used on input line 195.
+Package pdftex.def Info: ../images/eico.png  used on input line 194.
 (pdftex.def)             Requested size: 227.62204pt x 58.18433pt.
 <../images/eico_1.jpg, id=492, 1927.2pt x 761.84625pt>
 File: ../images/eico_1.jpg Graphic file (type jpg)
 <use ../images/eico_1.jpg>
-Package pdftex.def Info: ../images/eico_1.jpg  used on input line 195.
+Package pdftex.def Info: ../images/eico_1.jpg  used on input line 194.
 (pdftex.def)             Requested size: 284.52756pt x 112.47015pt.
 <../images/eico_2.png, id=493, 703.87968pt x 412.54124pt>
 File: ../images/eico_2.png Graphic file (type png)
 <use ../images/eico_2.png>
-Package pdftex.def Info: ../images/eico_2.png  used on input line 195.
+Package pdftex.def Info: ../images/eico_2.png  used on input line 194.
 (pdftex.def)             Requested size: 284.52756pt x 166.75725pt.
  [13
 
@@ -1183,17 +1183,17 @@ Package pdftex.def Info: ../images/eico_2.png  used on input line 195.
 <../images/hering.jpg, id=611, 570.13pt x 321.2pt>
 File: ../images/hering.jpg Graphic file (type jpg)
 <use ../images/hering.jpg>
-Package pdftex.def Info: ../images/hering.jpg  used on input line 224.
+Package pdftex.def Info: ../images/hering.jpg  used on input line 223.
 (pdftex.def)             Requested size: 113.81102pt x 64.11633pt.
 <../images/leinsamen.jpg, id=612, 797.98125pt x 531.9875pt>
 File: ../images/leinsamen.jpg Graphic file (type jpg)
 <use ../images/leinsamen.jpg>
-Package pdftex.def Info: ../images/leinsamen.jpg  used on input line 224.
+Package pdftex.def Info: ../images/leinsamen.jpg  used on input line 223.
 (pdftex.def)             Requested size: 113.81102pt x 75.87395pt.
 <../images/walnüsse.jpg, id=613, 99.11314pt x 99.11314pt>
 File: ../images/walnüsse.jpg Graphic file (type jpg)
 <use ../images/walnüsse.jpg>
-Package pdftex.def Info: ../images/walnüsse.jpg  used on input line 224.
+Package pdftex.def Info: ../images/walnüsse.jpg  used on input line 223.
 (pdftex.def)             Requested size: 113.81102pt x 113.81436pt.
  [17
 
@@ -1201,42 +1201,42 @@ Package pdftex.def Info: ../images/walnüsse.jpg  used on input line 224.
 <../images/cholesterin.png, id=677, 138.5175pt x 130.98938pt>
 File: ../images/cholesterin.png Graphic file (type png)
 <use ../images/cholesterin.png>
-Package pdftex.def Info: ../images/cholesterin.png  used on input line 333.
+Package pdftex.def Info: ../images/cholesterin.png  used on input line 332.
 (pdftex.def)             Requested size: 28.45274pt x 26.90495pt.
 <../images/ader.png, id=678, 706.89093pt x 328.22626pt>
 File: ../images/ader.png Graphic file (type png)
 <use ../images/ader.png>
-Package pdftex.def Info: ../images/ader.png  used on input line 333.
+Package pdftex.def Info: ../images/ader.png  used on input line 332.
 (pdftex.def)             Requested size: 284.52756pt x 132.11455pt.
 <../images/ader_2.png, id=679, 607.51968pt x 284.56313pt>
 File: ../images/ader_2.png Graphic file (type png)
 <use ../images/ader_2.png>
-Package pdftex.def Info: ../images/ader_2.png  used on input line 333.
+Package pdftex.def Info: ../images/ader_2.png  used on input line 332.
 (pdftex.def)             Requested size: 284.52756pt x 133.27574pt.
 <../images/ader_3.png, id=680, 607.51968pt x 283.81032pt>
 File: ../images/ader_3.png Graphic file (type png)
 <use ../images/ader_3.png>
-Package pdftex.def Info: ../images/ader_3.png  used on input line 333.
+Package pdftex.def Info: ../images/ader_3.png  used on input line 332.
 (pdftex.def)             Requested size: 284.52756pt x 132.92316pt.
 <../images/ader_4.png, id=681, 609.02531pt x 283.81032pt>
 File: ../images/ader_4.png Graphic file (type png)
 <use ../images/ader_4.png>
-Package pdftex.def Info: ../images/ader_4.png  used on input line 333.
+Package pdftex.def Info: ../images/ader_4.png  used on input line 332.
 (pdftex.def)             Requested size: 284.52756pt x 132.59402pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 333
+LaTeX Font Info:    Trying to load font information for U+msa on input line 332
 .
 
 (C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 333
+LaTeX Font Info:    Trying to load font information for U+msb on input line 332
 .
 
 (C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 333.
+ut line 332.
 
 (C:\Users\adria\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
 erncmss.fd
@@ -1246,7 +1246,7 @@ thkerncmss.
 <../images/90er.png, id=694, 852.18375pt x 453.94594pt>
 File: ../images/90er.png Graphic file (type png)
 <use ../images/90er.png>
-Package pdftex.def Info: ../images/90er.png  used on input line 333.
+Package pdftex.def Info: ../images/90er.png  used on input line 332.
 (pdftex.def)             Requested size: 284.52756pt x 151.56198pt.
  [18
 
@@ -1279,12 +1279,12 @@ Package pdftex.def Info: ../images/90er.png  used on input line 333.
 <../images/lipo.png, id=961, 257.46187pt x 98.61844pt>
 File: ../images/lipo.png Graphic file (type png)
 <use ../images/lipo.png>
-Package pdftex.def Info: ../images/lipo.png  used on input line 370.
+Package pdftex.def Info: ../images/lipo.png  used on input line 369.
 (pdftex.def)             Requested size: 56.9055pt x 21.79694pt.
 <../images/lipo_1.png, id=962, 425.33907pt x 340.27126pt>
 File: ../images/lipo_1.png Graphic file (type png)
 <use ../images/lipo_1.png>
-Package pdftex.def Info: ../images/lipo_1.png  used on input line 370.
+Package pdftex.def Info: ../images/lipo_1.png  used on input line 369.
 (pdftex.def)             Requested size: 199.16928pt x 159.3356pt.
  [27
 
@@ -1327,7 +1327,7 @@ ublic/amsfonts/cm/cmss17.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/adria/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 Output written on D:/git\gesundheit\vortrag\out\Vortrag_30_06_2021.pdf (31 page
-s, 1645490 bytes).
+s, 1645560 bytes).
 PDF statistics:
  1130 PDF objects out of 1200 (max. 8388607)
  74 named destinations out of 1000 (max. 500000)
