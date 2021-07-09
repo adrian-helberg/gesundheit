@@ -1,0 +1,12 @@
+\babel@toc {ngerman}{}
+\beamer@sectionintoc {1}{Theorie}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Profil}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Stoffwechsel}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Qualität}{9}{0}{1}
+\beamer@subsectionintoc {1}{4}{Bedarf}{12}{0}{1}
+\beamer@subsectionintoc {1}{5}{Zufuhrempfehlung}{13}{0}{1}
+\beamer@subsectionintoc {1}{6}{Sport}{14}{0}{1}
+\beamer@subsectionintoc {1}{7}{Gluten}{18}{0}{1}
+\beamer@subsectionintoc {1}{8}{mTOR}{23}{0}{1}
+\beamer@sectionintoc {2}{Praxis}{27}{0}{2}
+\beamer@sectionintoc {3}{Fragerunde}{29}{0}{3}
