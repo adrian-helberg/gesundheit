@@ -4,5 +4,7 @@
 \beamer@subsectionintoc {1}{2}{Der Gesundheitsbegriff}{6}{0}{1}
 \beamer@subsectionintoc {1}{3}{Mayr-Medizin}{8}{0}{1}
 \beamer@subsectionintoc {1}{4}{Körperhaltung}{11}{0}{1}
-\beamer@sectionintoc {2}{Praxis}{16}{0}{2}
-\beamer@sectionintoc {3}{Fragerunde}{18}{0}{3}
+\beamer@subsectionintoc {1}{5}{Intestinale Autointoxikation}{16}{0}{1}
+\beamer@subsectionintoc {1}{6}{Therapie}{22}{0}{1}
+\beamer@sectionintoc {2}{Praxis}{23}{0}{2}
+\beamer@sectionintoc {3}{Fragerunde}{25}{0}{3}
