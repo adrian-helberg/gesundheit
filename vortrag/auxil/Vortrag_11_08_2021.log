@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  10 AUG 2021 18:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.9)  11 AUG 2021 19:53
 entering extended mode
 **./Vortrag_11_08_2021.tex
 (Vortrag_11_08_2021.tex
@@ -1071,16 +1071,9 @@ Dictionary: translator-numbers-dictionary, Language: English
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-(D:/git\gesundheit\vortrag\out\Vortrag_11_08_2021.nav)
-<../images/logo.png, id=61, 730.4088pt x 156.585pt>
-File: ../images/logo.png Graphic file (type png)
-<use ../images/logo.png>
-Package pdftex.def Info: ../images/logo.png  used on input line 36.
-(pdftex.def)             Requested size: 113.81102pt x 24.39705pt.
- [1
+(D:/git\gesundheit\vortrag\out\Vortrag_11_08_2021.nav) [1
 
-{C:/Users/adria/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <../images/logo.
-png>]
+{C:/Users/adria/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 (D:/git\gesundheit\vortrag\out\Vortrag_11_08_2021.toc) [2
 
 ] [3
@@ -1116,27 +1109,27 @@ and I'll forget about whatever was undefined.
 
 
 ]
-<../images/vergiftung_1.png, id=452, 590.95781pt x 365.11406pt>
+<../images/vergiftung_1.png, id=449, 590.95781pt x 365.11406pt>
 File: ../images/vergiftung_1.png Graphic file (type png)
 <use ../images/vergiftung_1.png>
 Package pdftex.def Info: ../images/vergiftung_1.png  used on input line 175.
 (pdftex.def)             Requested size: 227.62204pt x 140.6334pt.
-<../images/vergiftung_2.png, id=453, 602.25pt x 361.35pt>
+<../images/vergiftung_2.png, id=451, 602.25pt x 361.35pt>
 File: ../images/vergiftung_2.png Graphic file (type png)
 <use ../images/vergiftung_2.png>
 Package pdftex.def Info: ../images/vergiftung_2.png  used on input line 175.
 (pdftex.def)             Requested size: 227.62204pt x 136.57558pt.
-<../images/vergiftung_3.png, id=454, 596.98032pt x 363.60844pt>
+<../images/vergiftung_3.png, id=452, 596.98032pt x 363.60844pt>
 File: ../images/vergiftung_3.png Graphic file (type png)
 <use ../images/vergiftung_3.png>
 Package pdftex.def Info: ../images/vergiftung_3.png  used on input line 175.
 (pdftex.def)             Requested size: 227.62204pt x 138.63869pt.
-<../images/vergiftung_4.png, id=455, 591.71063pt x 371.88937pt>
+<../images/vergiftung_4.png, id=453, 591.71063pt x 371.88937pt>
 File: ../images/vergiftung_4.png Graphic file (type png)
 <use ../images/vergiftung_4.png>
 Package pdftex.def Info: ../images/vergiftung_4.png  used on input line 175.
 (pdftex.def)             Requested size: 227.62204pt x 143.06151pt.
-<../images/lymphe.png, id=456, 564.60938pt x 345.54094pt>
+<../images/lymphe.png, id=454, 564.60938pt x 345.54094pt>
 File: ../images/lymphe.png Graphic file (type png)
 <use ../images/lymphe.png>
 Package pdftex.def Info: ../images/lymphe.png  used on input line 175.
@@ -1159,49 +1152,49 @@ Package pdftex.def Info: ../images/lymphe.png  used on input line 175.
 
 
  <../images/lymphe.png>]
-<../images/gasbauch.jpg, id=619, 610.73239pt x 336.9207pt>
+<../images/gasbauch.jpg, id=617, 610.73239pt x 336.9207pt>
 File: ../images/gasbauch.jpg Graphic file (type jpg)
 <use ../images/gasbauch.jpg>
 Package pdftex.def Info: ../images/gasbauch.jpg  used on input line 215.
 (pdftex.def)             Requested size: 153.6447pt x 84.75948pt.
-<../images/kotbauch.jpg, id=620, 610.73239pt x 376.61832pt>
+<../images/kotbauch.jpg, id=618, 610.73239pt x 376.61832pt>
 File: ../images/kotbauch.jpg Graphic file (type jpg)
 <use ../images/kotbauch.jpg>
 Package pdftex.def Info: ../images/kotbauch.jpg  used on input line 215.
 (pdftex.def)             Requested size: 153.6447pt x 94.74625pt.
-<../images/normalhaltung.png, id=621, 286.82156pt x 332.74312pt>
+<../images/normalhaltung.png, id=619, 286.82156pt x 332.74312pt>
 File: ../images/normalhaltung.png Graphic file (type png)
 <use ../images/normalhaltung.png>
 Package pdftex.def Info: ../images/normalhaltung.png  used on input line 215.
 (pdftex.def)             Requested size: 113.81102pt x 132.02866pt.
-<../images/habtachthaltung.png, id=622, 225.84375pt x 212.29312pt>
+<../images/habtachthaltung.png, id=620, 225.84375pt x 212.29312pt>
 File: ../images/habtachthaltung.png Graphic file (type png)
 <use ../images/habtachthaltung.png>
 Package pdftex.def Info: ../images/habtachthaltung.png  used on input line 215.
 
 (pdftex.def)             Requested size: 113.81102pt x 106.98528pt.
-<../images/entenhaltung.png, id=623, 240.14719pt x 200.24812pt>
+<../images/entenhaltung.png, id=621, 240.14719pt x 200.24812pt>
 File: ../images/entenhaltung.png Graphic file (type png)
 <use ../images/entenhaltung.png>
 Package pdftex.def Info: ../images/entenhaltung.png  used on input line 215.
 (pdftex.def)             Requested size: 128.0374pt x 106.76654pt.
-<../images/großtrommelträger.png, id=624, 358.33875pt x 292.84406pt>
+<../images/großtrommelträger.png, id=622, 358.33875pt x 292.84406pt>
 File: ../images/großtrommelträger.png Graphic file (type png)
 <use ../images/großtrommelträger.png>
 Package pdftex.def Info: ../images/großtrommelträger.png  used on input line 
 215.
 (pdftex.def)             Requested size: 133.72786pt x 109.2845pt.
-<../images/anlaufhaltung.png, id=625, 225.09094pt x 216.05719pt>
+<../images/anlaufhaltung.png, id=623, 225.09094pt x 216.05719pt>
 File: ../images/anlaufhaltung.png Graphic file (type png)
 <use ../images/anlaufhaltung.png>
 Package pdftex.def Info: ../images/anlaufhaltung.png  used on input line 215.
 (pdftex.def)             Requested size: 113.81102pt x 109.24481pt.
-<../images/lässige.png, id=626, 214.55156pt x 208.52907pt>
+<../images/lässige.png, id=624, 214.55156pt x 208.52907pt>
 File: ../images/lässige.png Graphic file (type png)
 <use ../images/lässige.png>
 Package pdftex.def Info: ../images/lässige.png  used on input line 215.
 (pdftex.def)             Requested size: 102.43008pt x 99.55507pt.
-<../images/sämannshaltung.png, id=627, 343.2825pt x 301.8778pt>
+<../images/sämannshaltung.png, id=625, 343.2825pt x 301.8778pt>
 File: ../images/sämannshaltung.png Graphic file (type png)
 <use ../images/sämannshaltung.png>
 Package pdftex.def Info: ../images/sämannshaltung.png  used on input line 215.
@@ -1222,7 +1215,7 @@ Package pdftex.def Info: ../images/sämannshaltung.png  used on input line 215.
 
 
  <../images/lässige.png> <../images/sämannshaltung.png>]
-<../images/therapie_1.jpg, id=765, 481.8pt x 481.8pt>
+<../images/therapie_1.jpg, id=763, 481.8pt x 481.8pt>
 File: ../images/therapie_1.jpg Graphic file (type jpg)
 <use ../images/therapie_1.jpg>
 Package pdftex.def Info: ../images/therapie_1.jpg  used on input line 224.
@@ -1276,10 +1269,10 @@ Package rerunfilecheck Info: File `Vortrag_11_08_2021.out' has not changed.
 (rerunfilecheck)             Checksum: 4632953AC89BB5036351F34E904E0941;517.
  ) 
 Here is how much of TeX's memory you used:
- 19567 strings out of 479618
- 382210 string characters out of 2865027
- 683154 words of memory out of 3000000
- 36164 multiletter control sequences out of 15000+200000
+ 19562 strings out of 479618
+ 382097 string characters out of 2865027
+ 683192 words of memory out of 3000000
+ 36159 multiletter control sequences out of 15000+200000
  411748 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,16n,132p,442b,815s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1297,9 +1290,9 @@ type1/public/amsfonts/cm/cmss8.pfb><C:/Users/adria/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/adria/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
 Output written on D:/git\gesundheit\vortrag\out\Vortrag_11_08_2021.pdf (27 page
-s, 4113507 bytes).
+s, 4055891 bytes).
 PDF statistics:
- 985 PDF objects out of 1000 (max. 8388607)
+ 983 PDF objects out of 1000 (max. 8388607)
  66 named destinations out of 1000 (max. 500000)
- 627 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 622 words of extra memory for PDF output out of 10000 (max. 10000000)
 

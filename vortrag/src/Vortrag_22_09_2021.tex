@@ -1,0 +1,187 @@
+% Preamble
+\documentclass[xcolor=dvipsnames]{beamer}
+\usetheme{madrid}
+
+% Packages
+\usepackage[english,ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{ifthen} % Boolean variables
+\usepackage{subfigure} % Horizontal pictures
+
+\definecolor{hBlue}{RGB}{55,118,165}
+\usecolortheme[named=hBlue]{structure}
+
+% Distiction between work and stream presentation
+\newboolean{work}
+\setboolean{work}{true}
+
+\ifthenelse{\boolean{work}}{
+    \titlegraphic{\includegraphics[width=4cm]{../images/logo.png}}
+}{}
+\title{Gesundheit \& Ernährung}
+\subtitle{Zusammenfassung}
+\ifthenelse{\boolean{work}}{
+    \author{Adrian Helberg}
+}{
+    \author{Bl1nzlar, twitch.tv/bl1nzlar}
+}
+\date{22.09.2021}
+
+
+% Document
+\begin{document}
+
+    \maketitle
+
+    \frame{\frametitle{Agenda}\tableofcontents}
+
+    \section{Zusammenfassung}
+    {
+    \setbeamercolor{normal text}{fg=hBlue}\usebeamercolor*{normal text}
+    \begin{frame}
+        \begin{center}
+            \Huge Zusammenfassung
+        \end{center}
+    \end{frame}
+    }
+
+    \subsection{Einführung}
+    \begin{frame}
+        \frametitle{Einführung}
+            \begin{itemize}
+                \setlength\itemsep{1em}
+                \item Forschung, Fachwissen und Gesellschaft hinterfragen
+                \begin{itemize}
+                    \item Gesundheit in die eigenen Hände nehmen
+                \end{itemize}
+                \item Lobbyismus erkennen
+                \item Das perfekte Frühstück
+                \begin{itemize}
+                    \item Das perfekte Spätstück 2.0 (Autophagie, Pfeffer)
+                \end{itemize}
+                \item Körperlicher und mentaler Reset
+            \end{itemize}
+    \end{frame}
+
+    \subsection{21-Tage-Kur}
+    \begin{frame}
+        \frametitle{21-Tage-Kur}
+        \begin{itemize}
+            \setlength\itemsep{1em}
+            \item Teufelskreis durchbrechen
+            \begin{itemize}
+                \item Zuckerentwöhnung
+            \end{itemize}
+            \item Hormone ins Gleichgewicht bringen
+            \item Organsysteme entlasten
+            \item Lebensqualität erlangen
+            \begin{itemize}
+                \item Chronische Krankheiten heilen
+                \item Abnehmen
+            \end{itemize}
+        \end{itemize}
+    \end{frame}
+
+    \subsection{Vitamin D}
+    \begin{frame}
+        \frametitle{Vitamin D}
+        \begin{itemize}
+            \setlength\itemsep{1em}
+            \item Mangel ausgleichen
+            \item Erkrankungen verhindern
+            \item Supplementieren
+        \end{itemize}
+    \end{frame}
+
+    \subsection{Verdauungsrohr}
+    \begin{frame}
+        \frametitle{Verdauungsrohr}
+        \begin{itemize}
+            \setlength\itemsep{1em}
+            \item Zusammenhang zwischen Verdauung und Gesundheit
+            \item Darmbiom
+        \end{itemize}
+    \end{frame}
+
+    \subsection{Kohenhydrate}
+    \begin{frame}
+        \frametitle{Kohenhydrate}
+        \begin{itemize}
+            \setlength\itemsep{1em}
+            \item Frucktzucker vermeiden
+            \item Blutzuckerspiegel normalisieren
+            \item Insulin- und Leptinresistenz
+            \begin{itemize}
+                \item Stress
+                \item Überernährung
+                \item Bewegungsmangel
+                \item Fettleber
+            \end{itemize}
+            \item Blutdruck verbessern
+            \item Lebensmittel statt Nahrungsmittel
+        \end{itemize}
+    \end{frame}
+
+    \subsection{Fette}
+    \begin{frame}
+        \frametitle{Fette}
+        \begin{itemize}
+            \setlength\itemsep{1em}
+            \item Omega-Quotient
+            \item Entzündungen loswerden/vermeiden
+            \item Potential erkennen
+            \item Erkennen von schlechten und guten Fetten
+            \item Cholesterin
+            \item Fettsäurenprofil
+        \end{itemize}
+    \end{frame}
+
+    \subsection{Proteine}
+    \begin{frame}
+        \frametitle{Proteine}
+        \begin{itemize}
+            \setlength\itemsep{1em}
+            \item Gluconeogenese
+            \item Biologische Wertigkeit
+            \item Muskelaufbau
+            \begin{itemize}
+                \item Rückenschmerzen lindern/vermeiden
+                \item Verletzungsgefahr reduzieren
+            \end{itemize}
+            \item Aminosäurenprofil
+            \item Gluten
+            \item mTOR
+        \end{itemize}
+    \end{frame}
+
+    \subsection{Mayr-Medizin}
+    \begin{frame}
+        \frametitle{Mayr-Medizin}
+        \begin{itemize}
+            \setlength\itemsep{1em}
+            \item Essensverhalten
+            \begin{itemize}
+                \item zu schnell, zu viel, zu oft, zu spät, zu schwer
+            \end{itemize}
+            \begin{itemize}
+                \item Das \textit{Wie} ist mindestens genauso wichtig wie das \textit{Was}
+            \end{itemize}
+            \item Kauen
+            \item Bauchmassage
+            \item Bauchform und Körperhaltung
+            \item Intestinale Autointoxikation
+        \end{itemize}
+    \end{frame}
+
+    \section{Fragerunde}
+    {
+        \setbeamercolor{normal text}{fg=hBlue}\usebeamercolor*{normal text}
+        \begin{frame}
+            \begin{center}
+                \Huge Fragerunde
+            \end{center}
+        \end{frame}
+    }
+\end{document}
